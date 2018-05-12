@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1863
     wikipedia: http://en.wikipedia.org/wiki/Ludvig_Holberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27170#Jeppe-sur-la-Monto--a--la-Transformita-Kamparano
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2008-11-06'
 gutenberg_type: Text
