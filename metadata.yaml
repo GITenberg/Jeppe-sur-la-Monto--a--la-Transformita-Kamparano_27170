@@ -1,0 +1,38 @@
+_repo: Jeppe-sur-la-Monto--a--la-Transformita-Kamparano_27170
+_version: 0.1.0
+alternative_title: Jeppe på bjerget. Esperanto
+contributor:
+  translator:
+    agent_name: Tangerud, Odd
+    gutenberg_agent_id: '8417'
+    url: http://www.gutenberg.org/2009/agents/8417
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holberg, Ludvig
+    aliases:
+    - Holberg, Baron Ludvig
+    - Holberg, Johan Ludvig
+    birthdate: 1684
+    deathdate: 1754
+    gutenberg_agent_id: '1863'
+    url: http://www.gutenberg.org/2009/agents/1863
+    wikipedia: http://en.wikipedia.org/wiki/Ludvig_Holberg
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2008-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27170'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Danish drama -- Translations into Esperanto'
+- !lcc 'PT'
+- !lcsh 'Comedies'
+title: Jeppe sur la Monto; aŭ la Transformita Kamparano
+url: http://www.gutenberg.org/ebooks/27170
